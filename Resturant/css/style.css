@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Webdesign";
+  src: url("./fonts/Vazirmatn-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Webdesign1";
+  src: url("./fonts/Vazirmatn[wght].woff2") format("woff2");
+}
+@font-face {
+  font-family: "Webdesign2";
+  src: url("./fonts/Vazirmatn-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Webdesign3";
+  src: url("./fonts/ttf/Vazirmatn-Bold.ttf") format("truetype");
+}
+body {
+  font-family: "Webdesign3";
+}
+
+/*# sourceMappingURL=style.css.map */
